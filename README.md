@@ -1,7 +1,7 @@
 # Hi, I'm Shane :)
 
 ---
-![My Screenshot](./images/github_profile)
+![My Screenshot](/github_profile)
 
 ##  About me
 
@@ -13,7 +13,7 @@
 
 
 ## 📫 Let's chat
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/shane-lau-moon-lin-748b51308/)
+🔗 [LinkedIn](https://www.linkedin.com/in/shane-lau-moon-lin-748b51308/)
 
 
 ---
