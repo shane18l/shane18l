@@ -1,6 +1,6 @@
 # Hi, I'm Shane :)
 
-![My Screenshot](/github_profile.png)
+![My Screenshot](/)
 
 ##  About me
 
