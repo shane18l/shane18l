@@ -14,7 +14,7 @@
 
 ## 📫 Let's chat
 <a href="https://www.linkedin.com/in/shane-lau-moon-lin-748b51308/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
 
