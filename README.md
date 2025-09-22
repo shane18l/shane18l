@@ -4,7 +4,7 @@
 
 ##  About me
 
-- studying math at the university of waterloo 
+- data science student at the university of waterloo 
 - interested in machine learning and data science
 - big sports and gaming guy
 
